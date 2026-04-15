@@ -2,7 +2,7 @@
 title: "Analytics"
 type: dashboard
 tags: [meta]
-updated: 2026-04-08
+updated: 2026-04-15
 ---
 
 # Analytics
@@ -22,13 +22,13 @@ options:
     position: right
 data:
   - label: Concepts
-    value: 0
+    value: 7
   - label: Entities
-    value: 0
+    value: 1
   - label: Summaries
-    value: 0
+    value: 4
   - label: Syntheses
-    value: 0
+    value: 1
 ```
 
 ## Confidence Distribution
@@ -41,10 +41,10 @@ options:
   indexAxis: y
 data:
   - label: High
-    value: 0
+    value: 3
     backgroundColor: "#4caf50"
   - label: Medium
-    value: 0
+    value: 5
     backgroundColor: "#ff9800"
   - label: Low
     value: 0
@@ -53,18 +53,36 @@ data:
 
 ## Top Tags
 
-<!-- CUSTOMIZE: Replace these placeholder tags with your actual tags after ingesting sources. -->
-
 ```chartsview
 type: wordcloud
 options:
   maxRotation: 0
   minRotation: 0
 data:
-  - tag: placeholder-tag-1
+  - tag: c2c
+    value: 13
+  - tag: foundational
+    value: 5
+  - tag: itinerary
+    value: 4
+  - tag: pacing
+    value: 3
+  - tag: seasonality
+    value: 3
+  - tag: planning
     value: 1
-  - tag: placeholder-tag-2
+  - tag: logistics
     value: 1
-  - tag: placeholder-tag-3
+  - tag: trail
+    value: 1
+  - tag: governance
+    value: 2
+  - tag: accessibility
+    value: 2
+  - tag: economy
+    value: 2
+  - tag: well-established
+    value: 2
+  - tag: emerging
     value: 1
 ```
