@@ -1,5 +1,5 @@
 ---
-title: "Analytics"
+title: 'Analytics'
 type: dashboard
 tags: [meta]
 updated: 2026-04-15

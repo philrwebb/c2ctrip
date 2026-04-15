@@ -10,11 +10,11 @@ confidence: high
 
 ## Comparison
 
-| Option | Typical profile | Daily pattern | Main tradeoff |
-|------|------|------|------|
-| 10 days | Strong walkers comfortable with 20 to 25 km days | Longer average distances, but still with shorter hard mountain days | Faster completion with less margin for fatigue |
-| 14 days | Mainstream self-guided or supported walkers | Moderate stages with more recovery built in | More nights and logistics, but lower daily stress |
-| 16 to 18 days | Walkers prioritizing comfort, sightseeing, or lower fatigue | Shorter, easier stages with more flexibility | Simplest pacing, but longest overall trip |
+| Option        | Typical profile                                             | Daily pattern                                                       | Main tradeoff                                     |
+| ------------- | ----------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------- |
+| 10 days       | Strong walkers comfortable with 20 to 25 km days            | Longer average distances, but still with shorter hard mountain days | Faster completion with less margin for fatigue    |
+| 14 days       | Mainstream self-guided or supported walkers                 | Moderate stages with more recovery built in                         | More nights and logistics, but lower daily stress |
+| 16 to 18 days | Walkers prioritizing comfort, sightseeing, or lower fatigue | Shorter, easier stages with more flexibility                        | Simplest pacing, but longest overall trip         |
 
 ## Analysis
 

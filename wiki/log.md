@@ -1,5 +1,5 @@
 ---
-title: "Activity Log"
+title: 'Activity Log'
 type: log
 ---
 
@@ -10,6 +10,7 @@ Append-only record of all wiki changes.
 ## Format
 
 Each entry follows this format:
+
 ```
 ### YYYY-MM-DD HH:MM — [Action Type]
 - **Source/Trigger**: what initiated the action
